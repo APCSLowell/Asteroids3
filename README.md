@@ -37,3 +37,4 @@ If you have extra time, you might add some extra features to your Asteroids game
 * Save the score or health to [save the player's progress](https://github.com/APCSLowell/SaveProgress#how-to-save-progress)
 * Andrew Ong put a [video](https://www.youtube.com/watch?v=qiRtD9vJ2K8) up of his Asteroids Game from several years ago which has a number of amazing features.
  
+[![Asteroids video](https://img.youtube.com/vi/qiRtD9vJ2K8/0.jpg)](https://www.youtube.com/watch?v=qiRtD9vJ2K8)
